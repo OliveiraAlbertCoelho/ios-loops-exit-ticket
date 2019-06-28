@@ -25,6 +25,7 @@ for number in 4..<8{
 }
 
 print(myNum)
+the answer is 23 the program runs 3 times and stops when number is equal to 7 which by then myNum increments to 23
 ```
 
 ***
@@ -58,6 +59,7 @@ D)
 for l in 1...100 where _ < 101 {
     print(l)
 }
+<---> the answers would be b, c
 ```
 
 ***
@@ -71,6 +73,7 @@ for _ in 1...10{
         print("Nesting!")
     }
 }
+---> the answer would be that it would print 100 times
 ```
 
 ***
@@ -116,6 +119,7 @@ while t == t{
     print("Ahoy-hoy!")
     t += 1
 }
+---> both A and D would be infinite loops
 ```
 
 ***
